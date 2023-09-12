@@ -1,5 +1,6 @@
 <p align="center"><a href="https://www.linkedin.com/in/jorge-romero-contreras/" target="_blank">
-    ![logo](https://github.com/JorgeRomeroC/AdminLTE/assets/33013656/b71e78f1-8a81-4a86-ae85-509373ef4f74)
+    <img src="https://github.com/JorgeRomeroC/AdminLTE/assets/33013656/44c4a47d-8e37-4b75-9a2f-16d4b014f13d">
+</a>
 </p>
 
 <p align="center">
