@@ -1,5 +1,5 @@
-<p align="center"><a href="https://laravel.com" target="_blank">
-    ![logo](https://github.com/JorgeRomeroC/AdminLTE/assets/33013656/fd0356d3-8257-4fe9-9b6f-b6c5e8159636)
+<p align="center"><a href="https://www.linkedin.com/in/jorge-romero-contreras/" target="_blank">
+    ![logo](https://github.com/JorgeRomeroC/AdminLTE/assets/33013656/b71e78f1-8a81-4a86-ae85-509373ef4f74)
 </p>
 
 <p align="center">
